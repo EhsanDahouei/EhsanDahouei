@@ -2,11 +2,11 @@
 
 ### 🐍 Warning: Highly Reactive Full-Stack Dev Detected!
 
-👾 Beep Boop! You have entered the Code Zone! As a fearless Full-Stack Overlord of the Digital Realm, I spend my days battling APIs and my nights summoning blockchain magic. ⚡ Debugging ninja by trade, I ensure errors perish before they multiply.
+👾 Beep Boop! You have entered the Code Zone! As a fearless Full-Stack Overlord of the Digital Realm, I spend my days battling APIs and my nights making sure my family doesn’t forget who I am. ⚡ Debugging ninja by trade, I squash errors faster than I can remember where I put my keys.
 
-From decentralized greetings to backend wizardry, I navigate the chaos of code, crypto, and caffeine-fueled creativity. 🚀 Highly reactive, dangerously innovative, and always ready to turn bad jokes into bad commits.
+When I’m not neck-deep in code, I’m enjoying quality time with family—because nothing says "I love you" like fixing the Wi-Fi and pretending to care about their new hobby. 🚀 Highly reactive, dangerously innovative, and always ready to turn bad jokes into bad commits (and occasionally good ones).
 
-Welcome to my playground—where blockchains, backends, and bad puns reign supreme. 🌍⛓️
+Welcome to my playground—where family, tech, and bad puns reign supreme. 🌍👨‍👩‍👧‍👦
 
 [![Ehsan Dahouei Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EhsanAkbari/)
 [![Ehsan Dahouei YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EhsanDahouei)
