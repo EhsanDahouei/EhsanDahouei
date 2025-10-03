@@ -4,7 +4,7 @@
 
 👾 Beep Boop! You have entered the Code Zone! As a fearless Full-Stack Overlord of the Digital Realm, I spend my days battling APIs and my nights making sure my family doesn’t forget who I am. ⚡ Debugging ninja by trade, I squash errors faster than I can remember where I put my keys.
 
-When I’m not neck-deep in code, I’m enjoying quality time with family—because nothing says "I love you" like fixing the Wi-Fi and pretending to care about their new hobby. 🚀 Highly reactive, dangerously innovative, and always ready to turn bad jokes into bad commits (and occasionally good ones).
+When I’m not neck-deep in code, I’m enjoying quality time with family—because nothing says "I love you" like fixing the Wi-Fi and pretending to care about their new hobby. 🚀
 
 Welcome to my playground—where family, tech, and bad puns reign supreme. 🌍👨‍👩‍👧‍👦
 
